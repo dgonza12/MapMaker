@@ -2,10 +2,6 @@ package com.example.dannygonzalez.mapmaker;
 /*
 Some code is from http://www.android-examples.com/android-simple-draw-canvas-finger-example-tutorial/
 */
-
-
-
-
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.content.Context;
